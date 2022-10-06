@@ -1,1 +1,5 @@
-this repo is on the basics of shell
+
+
+
+This is a new repository on the basics of LINUX shell
+
